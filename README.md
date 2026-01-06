@@ -32,4 +32,5 @@ pip install -r requirements.txt
 ## To run app:
 streamlit run app.py
 
-## Created by Rishav Kumar Shrivastava
+## Created by 
+Rishav Kumar Shrivastava
