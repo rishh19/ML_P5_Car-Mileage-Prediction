@@ -25,3 +25,11 @@ This project uses a regression model to estimate the Miles Per Gallon (MPG) of a
 1. Clone the repository:
    ```bash
    git clone [https://github.com//rishh19/ML_P5_Car-Mileage-Prediction.git](https://github.com//rishh19/ML_P5_Car-Mileage-Prediction.git)
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## To run app:
+streamlit run app.py
+
+## Created by Rishav Kumar Shrivastava
